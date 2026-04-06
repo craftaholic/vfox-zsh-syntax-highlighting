@@ -7,7 +7,7 @@ m.VERSIONS = {
     version = "0.8.0",
     note = "latest",
     url = m.REPO_BASE_URL .. "0.8.0.tar.gz",
-    sha256 = "a902bdd98ee320f314a58daf96c985e8318d54d5e20d9f00b6cdabb15c22952a",
+    sha256 = "5981c19ebaab027e356fe1ee5284f7a021b89d4405cc53dc84b476c3aee9cc32",
   },
   {
     version = "0.7.1",
